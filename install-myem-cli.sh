@@ -1,0 +1,1 @@
+sudo cp myem-cli.sh  /usr/local/bin/myem-cli
